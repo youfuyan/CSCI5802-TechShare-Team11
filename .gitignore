@@ -1,0 +1,52 @@
+#git ignore for nodejs projects
+node_modules
+npm-debug.log
+.DS_Store
+.env
+
+#git ignore for react projects
+node_modules
+npm-debug.log
+.DS_Store
+.env
+build
+
+#git ignore for react native projects
+node_modules
+npm-debug.log
+.DS_Store
+.env
+build
+*.iml
+.gradle
+local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/modules.xml
+
+#git ignore for angular projects
+node_modules
+npm-debug.log
+.DS_Store
+.env
+build
+*.iml
+.gradle
+local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/modules.xml
+
+#git ignore for vue projects
+node_modules
+npm-debug.log
+.DS_Store
+.env
+build
+*.iml
+.gradle
+local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/modules.xml
+
